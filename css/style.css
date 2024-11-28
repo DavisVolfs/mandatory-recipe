@@ -419,6 +419,9 @@ p [data-category="seafood"]
 
 .bigImage{
   position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
   height: 610px;
   margin-top: 200px;
   background-image: url('../images/big\ image.jpeg');
