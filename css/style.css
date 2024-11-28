@@ -428,6 +428,7 @@ p [data-category="seafood"]
   background-size: cover;
   background-position: center;
   clip-path: polygon(0 0, 0 0, 100% 20%, 100% 100%, 0% 100%); 
+  width: var(--width-full);
 }
 
 .textBox{
